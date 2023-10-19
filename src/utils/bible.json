@@ -1,0 +1,521 @@
+{
+  "day1": [
+    {
+      "register": "https://forms.gle/yP1uWLB621pPghNs5",
+      "path": "/images/droid trooper.png",
+      "event": "Droid Trooper",
+      "club": "Robolution",
+      "category": "Flagship",
+      "timing": "Round 1: 9 AM - 11:30 AM, Round 2: 12 PM - 3 PM",
+      "venue": "IC Arena",
+      "description": "",
+      "contact": ["Arnav Roy - 9142862795"]
+    },
+    {
+      "register": "https://forms.gle/VofQYxCFh8dHRqgB9",
+      "path": "/images/CHEMECIPHER.png",
+      "event": "Chem-E-Cipher",
+      "club": "IIChe",
+      "category": "Informal",
+      "timing": "Round 1 - 9.00 AM - 10:00 AM, Round 2 - 10.30 AM - 12:00 PM",
+      "venue": "237 & 233",
+      "description": "The Chem_e_Cipher event is a technical competition that merges fundamental knowledge of chemistry and physics with proficient coding skills. The event aims to foster a synergy between these two domains, recognizing their growing interconnection in the modern world. In the initial round, participants will be presented with a complex problem statement sourced from the subject of physics and chemistry basically of classes11 and 12th. Their task will involve conceiving innovative solutions to address the challenges posed by the given scenario. Submissions will be evaluated based on the feasibility,creativity,and practicality of the proposed ideas. Those with outstanding concepts will advance to the subsequent round. In the final round, participants will face the same problem statement, but the challenge will escalate. This time, they are required to translate the problem into code, visuals, or predictions utilizing their programming prowess, data analytics expertise, and machine learning modelling skills. The objective is to devise a comprehensive solution that not only encompasses optimized coding practices but also showcases the functional and predictive aspects of the solution. At the conclusion of the event, positions will be awarded with the recognition of the most exceptional solutions. A panel of judges, well-versed in the core principles of chemical engineering will oversee the evaluation process. Additionally, efforts will be made to include a judge from the computer science, information technology, artificial intelligence, or machine learning field, further emphasizing the interdisciplinary nature of the event. This diverse panel of judges ensures a comprehensive assessment, incorporating both the chemical engineering and technological facets of the participants' submissions.",
+      "contact": ["Rahul Kumar Suman - 7209612453"]
+    },
+    {
+      "register": "https://docs.google.com/forms/d/e/1FAIpQLSemnQimueEDXHHKvbiyRlWrxi0S9Iba5Jm8Bj5NAkHAxsgLJA/viewform?usp=sharing",
+      "path": "/images/Anvil.jpg",
+      "event": "Anvil",
+      "club": "SIME",
+      "category": "Informal",
+      "timing": "Round 1 - 9 AM - 11 AM, Round 2 - 11:30 AM -1:30 PM",
+      "venue": "206 & 207",
+      "description": "Join us for the ultimate intellectual showdown at the Anvil Challenge! This thrilling competition is open to individuals seeking to prove their prowess in a battle of wits. The Anvil Challenge spans four exhilarating levels, each designed to test your knowledge, problem-solving skills, and quick thinking. Here's what you can expect. The competition consists of 2 Round Containing General Quiz in Round 1 and a energetic event containing four levels: Level 1, Level 2, Level 3, and Level 4 in Round 2.This round 2 consists industrial and technical questions. With a unique twist, the difficulty of questions increases with each level, offering a balanced challenge for all participants. The top 3 participants with the highest cumulative scores across all four levels will claim victory. In the event of both points and time ties, joint winners will be declared. Gear up for a thrilling journey through knowledge, strategy, and quick reflexes as you aim to become one of the Anvil Challenge's triumphant champions! Gear up for a thrilling journey through knowledge, strategy, and quick reflexes as you aim to become one of the Anvil Challenge's triumphant champions!",
+      "contact": ["AMAN KUMAR - 6204056473"]
+    },
+    {
+      "register": "https://docs.google.com/forms/d/e/1FAIpQLSeiQZTIbhQrPi0CraYZ1h6AaOmxsrZ5WzdARbwWewVd7Iv6Vw/viewform",
+      "path": "/images/murder_mystery.png",
+      "event": "Murder Mystery",
+      "club": "Leo",
+      "category": "Formal",
+      "timing": "9:00 AM - 3:00 PM",
+      "venue": "Mehak",
+      "description": "Prepare for the return of the year's most thrilling adventure, \"Murder Mystery'2023,\" organized by the Leo Club! Following its record-breaking participation last year, the challenging contest of the town's Sherlocks is back, now grander and even more enigmatic. Collaborate with your team of 3-4 detectives to decipher intricate clues, explore concealed locations, and unveil the ultimate enigma. Anticipate heart-pounding excitement, unforeseen twists, and the opportunity to become Pantheon's ultimate sleuths. Solve the final mystery and lay claim to your fame and glory in this epic quest. Don't miss your chance for greatness - \"Murder Mystery'2023\" awaits!",
+      "contact": ["NEETU KUMARI - 6203535974"]
+    },
+    {
+      "register": "https://forms.gle/fvK5DkyxVe7xZY8F8",
+      "path": "/images/AEROMODELLING.png",
+      "event": "Aeromodelling",
+      "club": "Aerospace",
+      "category": "Informal",
+      "timing": "Round 1 - 11:30 AM  to 1.30 PM, Round 2 - 1.30 PM to 2.30 PM",
+      "venue": "233A, 232",
+      "description": "Prepare to soar to new heights with our thrilling Aeromodelling Contest, a highlight of our college's upcoming technical fest. This event is designed to test your knowledge and hands-on skills in the exciting world of aeromodelling, all while promoting creativity, engineering prowess, and aviation enthusiasm.",
+      "contact": ["PRIYANSHU KUMAR - 6203551107"]
+    },
+    {
+      "register": "https://forms.gle/vohJPav6SVm2DX688",
+      "path": "/images/connect-o-thon.png",
+      "event": "CONNECT-O-THON",
+      "club": "IETE",
+      "category": "Formal",
+      "timing": "Round 1: 11.30 - 12.30 PM, Round 2: 1:30 PM - 3:30 PM",
+      "venue": "R1-Seminar Hall 1/G2/G3, R2-RnD Lab",
+      "description": "Get your team ready for CONNECT-O-THON, where knowledge, teamwork, and assembly skills will be put to the test!. Hosted by IETE, where teams will test their knowledge and assembly skills in a thrilling competition. The event consists of two parts: a quiz and a PC assembly challenge.",
+      "contact": [
+        "Arya Shreshth - 9934086247",
+        "Amitesh Kumar Sinha - 8409742400"
+      ]
+    },
+    {
+      "register": "https://forms.gle/CW5RFS2ttJ98SVrL8",
+      "path": "/images/Bot soccer.png",
+      "event": "Bot Soccer",
+      "club": "EEE Society",
+      "category": "Informal",
+      "timing": "Round 1 - 11:30 AM - 2:30 PM, (Round 2 on 3rd Day of Pantheon)",
+      "venue": "236, 231",
+      "description": "“I love football, and you love football, and arguing about it is just a waste of time.” ~ Ian Slatter\n The event in question, as the name implies, centres around robotic entities crafted by the contestants themselves, which will subsequently engage in a soccer match. This event is structured into three distinct rounds. In the initial round, known as Round 1, sixteen teams will be chosen through a knockout-style video game competition among which 8 teams will be chosen to advance to the subsequent round on the basis of ppt they give on how to make the Bot. Moving on to Round 2, participants will be tasked with constructing their own robotic systems. Each participating team will be allocated a total of nine hours to develop their bots. The requisite equipment and technical support will be provided by the organising society. The culmination of the event will occur in the final round, wherein these bots will face off in a competitive soccer match. Brace yourselves for a voyage laden with intricate intricacies and unforeseen challenges.",
+      "contact": ["Avinash Kumar - 9471308901", "Akshay Tripathi - 9799042593"]
+    },
+    {
+      "register": "https://docs.google.com/forms/d/e/1FAIpQLSdJez40CjLcf7vL5bVwzog80hxW2CAAGYbLcaVVRpriA9y0EQ/viewform?usp=sf_link",
+      "path": "/images/tower .png",
+      "event": "Tower of Paper",
+      "club": "CES",
+      "category": "Informal",
+      "timing": "11:30 AM - 1:30 PM",
+      "venue": "204, 209",
+      "description": "This event consists of one stage: \n 1) The result for the stage will be according to the length of the tower created using newspaper, in case of a draw the strength will be considered.\n2) The Results will be published on the same day.",
+      "contact": ["Shreya Sinha - 8709566909"]
+    },
+    {
+      "register": "https://forms.gle/F2voSgs2MKsthLDT6",
+      "path": "/images/A Book A minutes.png",
+      "event": "A Book, A Minute",
+      "club": "The Literary Society",
+      "category": "Informal",
+      "timing": "11:30 AM - 1:30 PM",
+      "venue": "216A, 220",
+      "description": "A Book,A Minute is centred around the art of delivering a concise book synopsis within a 60-second timeframe.Contestants will select a book of their choice and meticulously craft a script aimed at enthralling a panel of judges. The primary objective is to pique the judges' interest through a succinct yet compelling overview of the chosen book's plot, prompting a desire to buy the book.",
+      "contact": ["Lily - 6204489339"]
+    },
+    {
+      "register": "https://forms.gle/H2NrPgxxhmUbQxbHA",
+      "path": "/images/the marketers.png",
+      "event": "The Marketeers",
+      "club": "EDC",
+      "category": "Formal",
+      "timing": "11:30 AM - 3:30 PM",
+      "venue": "Online",
+      "description": "",
+      "contact": ["UJJWAL AMAN - 9508386750"]
+    },
+    {
+      "register": "https://forms.gle/M3adDtWtAMFULQyGA",
+      "path": "/images/What if.png",
+      "event": "What If",
+      "club": "UNESQUO",
+      "category": "Informal",
+      "timing": " 1:00 PM  - 3:30 PM",
+      "venue": "216, 219",
+      "description": "Step into a world where the boundaries of reality blur, and the possibilities are limitless. \"What If\" is an extraordinary event that transcends the ordinary and invites you to explore the realms of imagination, curiosity, and creativity. This one-of-a-kind experience is designed to inspire, challenge, and amaze, leaving you with a sense of wonder and the question, \"What if anything is possible?\" Individual participation event where participants will be given historical or fantasy situations where they would have to explain in an elocution if there was a different situation rather than the actual true situation.",
+      "contact": ["Chhavi Rani - 8340319623", "Nikhil Verma - 9660673731"]
+    },
+    {
+      "register": "https://forms.gle/fiCbz72q6cg3S7yp9",
+      "path": "/images/shuttter_ascent.png",
+      "event": "Shutter Ascent",
+      "club": "PSOC",
+      "category": "Formal",
+      "timing": "Round 1 - 1.00 PM - 3.30 PM (Round 2 on 2nd day of the Pantheon)",
+      "venue": "LH-2",
+      "description": "This event will unfold in two captivating rounds, where the most exceptional individuals will advance to Round 2 to vie for the coveted title of \"Best Creative Portrait Photographer.\"",
+      "contact": ["Amiya Jha - 7979077549"]
+    },
+    {
+      "register": "https://forms.gle/JEoY2VYTsKTA12SD7",
+      "path": "/images/10.png",
+      "event": "Google it Out",
+      "club": "IET",
+      "category": "Informal",
+      "timing": "Round 1 - 1:30 AM - 2:30 AM, Round 2 - 2:30 AM - 3:30 PM",
+      "venue": "RnD Building",
+      "description": "",
+      "contact": ["Shubhankar Dubey - 7004591798"]
+    },
+    {
+      "register": "https://forms.gle/xT1EomStdNWe3Dc48",
+      "path": "/images/xerolag.png",
+      "event": "Xerolag",
+      "club": "Sports and Adventure Club",
+      "category": "Formal",
+      "timing": "8:00 PM - 12:00 PM (next day)",
+      "venue": "Lab 4, RnD Building",
+      "description": "All enrolled teams are invited for a 5v5 preliminary group stage wherein the rounds will be eliminatory in nature. Teams advancing from the group stages will compete in the semi-finals and the grand finals where 3 matches on different maps will be held. A team will be eliminated after a three match spell. Use of any unfair means will result in complete disqualification. Participants are required to bring their own PCs, Mouse and other peripherals.",
+      "contact": [
+        "Yashdev Tiwari - 6393115243",
+        "Kartik Doley - 8169217376",
+        "Piyush Raj - 9939175648"
+      ]
+    },
+  
+    {
+      "path": "/images/7_20230928_181241_0006.png",
+      "event": "ElectroQuest",
+      "club": "ECE Society",
+      "register": "https://forms.gle/MAeMHD8nXLvdDrECA",
+      "category": "Informal",
+      "venue": "LH-1",
+      "timing": "Round 1: 12.00 PM - 2:00 PM, Round 2: 2.30 PM - 4:30 PM",
+      "description": "Round 1: In this round teams will be shown some general science and tech related questions and answers that need to be marked by the teams on their laptops on a website which will be showing their live leaderboard. This round is a time game for all teams, faster ones will win. Round 2 : Top 8 qualifying teams will be given some electronics related coding questions. These questions are based on simple electronics and general science knowledge and code to be written is just some basic coding skills. Major catch is the electronics and science knowledge.This round will be held on HACKERRANK platform.",
+      "contact": ["Harsh Verma - 9031538883"]
+    }
+  ],
+  "day2": [
+    {
+      "register": "https://forms.gle/9BBLK4QttDu9s4rp9",
+      "path": "/images/PANTHEONQUIZ.png",
+      "event": "The Pantheon Quiz",
+      "club": " UNESQUO + Events Team",
+      "category": "Flagship",
+      "timing": "Round 1: 12:30 PM - 1:15 PM, Round 2: 1:30 PM - 3:30 PM",
+      "venue": "CAT Hall",
+      "description": "Embark on a thrilling intellectual adventure with The Pantheon Quiz. This quiz spans multiple dimensions - science, technology, business acumen and much more - to test your knowledge and expand your horizons. Dive into scientific mysteries, explore technological frontiers, tackle brain-teasing puzzles, and navigate real-world business scenarios. Each question takes you deeper into the realms of discovery, allowing you to accumulate points and compete with fellow knowledge enthusiasts. Join us for an exhilarating journey and unleash the power of your multidimensional intelligence!",
+      "contact": [
+        "Kr. Harshwardhan - 9142821947",
+        "Akshay Tripathi - 9799042593"
+      ]
+    },
+    {
+      "register": "https://forms.gle/VG5QbyJqsB5NU78EA",
+      "path": "/images/ctf.png",
+      "event": "Capture the Flag",
+      "club": "IEEE",
+      "category": "Formal",
+      "timing": "8.00 AM to 4.00 PM Next Day",
+      "venue": "Online",
+      "description": "36 hrs long event in which participants attempt to find text strings, called \"flags\", which are secretly hidden in purposefully-vulnerable programs or websites. There will be multiple challenges with some points.",
+      "contact": ["Prateek Krishna - 8210371121"]
+    },
+    {
+      "register": "https://docs.google.com/forms/d/e/1FAIpQLSdDDZ6ADRZG8Xx8yrbYYzLhoX-32vQnwZpvY29gS8FgeIgHCw/viewform?usp=sharing",
+      "path": "/images/asta di auots.png",
+      "event": "Asta di Autos",
+      "club": "SRIJAN + SIME",
+      "category": "Formal",
+      "timing": "Round 1- 9.00 AM - 11.30AM, Round 2- 12.00 PM - 2.00 PM",
+      "venue": "LH-1",
+      "description": "\"Asta di Autos\" is an exhilarating event, where the registered teams will participate in a test based on aptitude and Formula 1 automobile-related questions. In the first round, teams have to showcase their knowledge and skills, striving to secure a spot in the next stage. The top 6 teams will be selected to advance to the second round. In the second round, the Auction Round, the selected teams will be provided with a specific budget. They will engage in strategic bidding to acquire various segments of a car, including chassis, brakes, wheels, engines, and transmission. This round demands a comprehensive understanding of automobile engineering, as well as shrewdness and calculated decision-making.",
+      "contact": ["Ayush Kumar - 8102708909"]
+    },
+    {
+      "register": "https://forms.gle/281NV8WwxasMTgZ59",
+      "path": "/images/Volt Racers.png",
+      "event": "Volt Racer : The Electronic Carnage",
+      "club": "ECESoc",
+      "category": "Informal",
+      "timing": "Round 1: 9:00 AM - 11:00 AM, Round 2: 1:30 PM - 3:00 PM",
+      "venue": "R1-220, R2-216A",
+      "description": "Round 1: In the first round all teams will be answering a logical reasoning test in pen paper format. This round will consist of 20 reasoning questions based on the basic science domain. It will be a mind game in which answers are electronics related and very near to the questions shown.\nRound 2 : Top 8 teams will be qualified for round 2. Here, teams will be asked to play smash karts in the room created by us and the top teams will be asked simple electronics related questions and points will be provided accordingly. If a team fails to answer the question then it will be passed according to the ranking in the game and points will be provided after some deductions.",
+      "contact": ["Harsh Verma - 9031538883"]
+    },
+    {
+      "register": "https://forms.gle/ryU6UnL63sa3aY6A8",
+      "path": "/images/rushhour.png",
+      "event": "Rush Hour",
+      "club": "Finance Club",
+      "category": "Formal",
+      "timing": "Round 1: 9:00 AM - 12 PM, Round 2: 12 PM - 3: 30 PM",
+      "venue": "R1: Shorbagh, R2: 237",
+      "description": "Round 1: \nTeam Size: 2 to 3 members per team\nObjective: Solve a series of clues.\nClue Types: Clues are encoded in various ways, including QR codes and finance-related questions. Locations: There are up to 5 different locations to explore within the college premises.\nChallenge: Teams must use decoding skills and financial knowledge.\nFinal Destination: The ultimate challenge awaits at the final destination.\nWinners: The first team to arrive at the final destination wins the title of ultimate winners and qualified for the next round.\nRound 2: \nObjective: Test participants' business understanding in real-time\nTeams: Ten teams are shortlisted to compete.\nInitial Capital: Each team starts with 150 rupees as their initial capital.\nBuffer: They also receive an extra 50 rupees as buffer.\nTask: Creatively market and sell products or services within a specific timeframe.\nWinning Criteria: The team that generates the highest profit during this intense rush-hour period wins.\nSkills Tested: Strategy, innovation, and quick thinking.\nDynamic Nature: The event promises suspense and excitement as participants strive to maximize their gains.",
+      "contact": ["AALOK PRAVEEN - 9546949124"]
+    },
+    {
+      "register": "https://forms.gle/Gzq7jfUw52oWe5WF6",
+      "path": "/images/hatch from scratch.png",
+      "event": "Hatch from Scratch",
+      "club": "IET",
+      "category": "Flagship",
+      "timing": "10.00 AM - 10.00 AM (next day, 24 hours)",
+      "venue": "Idea Lab",
+      "description": "",
+      "contact": ["Shubhankar Dubey - 7004591798"]
+    },
+    {
+      "register": "https://docs.google.com/forms/d/e/1FAIpQLSd23eXYhllc97LsiIeDTublJ5eVud6xHdCizILSZit7WRnj8Q/viewform?usp=sf_link",
+      "path": "/images/1_20230928_181240_0000.png",
+      "event": "PITSTOP",
+      "club": "Firebolt Racing",
+      "category": "Informal",
+      "timing": "R1- 11:30AM-12PM, R2-12:30PM-2:30 PM",
+      "venue": "R1 - 232, 235, R2-Prod Dept",
+      "description": "",
+      "contact": ["Shashank Anand - 8789890274"]
+    },
+    {
+      "register": "https://forms.gle/bEDw9K74xSb1WkLh7",
+      "path": "/images/CODEZILLA.png",
+      "event": "Codezilla",
+      "club": "ACM",
+      "category": "Flagship",
+      "timing": "Round 1 - 10.00 AM - 11:00 PM, Round 2 - 11.30 AM - 1:30 PM",
+      "venue": "R1 - 204, 207, 209, R2-RnD Lab",
+      "description": "Gear-Up with your coding geek buddy for this relay styled programming competition because the only way you guys can communicate is through variables in this partnered contest.",
+      "contact": [
+        "Priyanshu Singhal : 7318181380",
+        "Prateek Khandelwal - 8810634779"
+      ]
+    },
+    {
+      "register": "https://forms.gle/nU8Y6B4KfmcWXe796",
+      "path": "/images/jungleJoust.jpg",
+      "event": "Jungle Joust",
+      "club": "EPAC",
+      "category": "Informal",
+      "timing": "R1-11.30AM-12:30PM, R2-12.30PM-2:30 PM",
+      "venue": "231, 233A",
+      "description": "The event \"Jungle Joust: BGMI Reforest Rampage\" merges competitive gaming with environmental preservation. Participants in the BGMI tournament compete for kills, with each kill resulting in a tree being planted in a reforestation area. Round 1 involves intense solo and duel matches, while Round 2 features the top three finalists in custom squad matches. Live-streamed matches engage a global audience, highlighting the unique concept of virtual achievements leading to real-world environmental impact. Additional ideas include eco-themed in-game elements, interactive reforestation updates, community involvement, and educational segments, making this event an innovative and impactful initiative at the intersection of gaming and environmental stewardship.",
+      "contact": ["Shivam - 9470356441"]
+    },
+    {
+      "register": "https://forms.gle/gTV13cKjv31pS1Jy7",
+      "path": "/images/INSIGHTQUEST.png",
+      "event": "Insights Quest",
+      "club": "SDS",
+      "category": "Formal",
+      "timing": "Round 1- 11:30 AM -1 PM, Round 2- 1:30 PM - 3:30 PM",
+      "venue": "214, 216",
+      "description": "Dive deep into the world of data, and witness the transformative impact of data visualization. Whether you're a seasoned data expert or a newcomer to the field, this event challenges you to find invaluable insights that will empower your professional journey.",
+      "contact": ["Yaagik Maurya, Aayushii Singh - 9431306443"]
+    },
+    {
+      "register": "https://forms.gle/sh8j6nDADbTZBiw47",
+      "path": "/images/4_20230928_181241_0003.png",
+      "event": "Among Us",
+      "club": "Rotaract",
+      "category": "Informal",
+      "timing": "Round 1-11:30AM-12:00PM, R2-1:30PM-3:30PM",
+      "venue": "R1-Online, R2-Shorbagh",
+      "description": "",
+      "contact": ["Anshuman Raj - 6203325204"]
+    },
+    {
+      "register": "https://forms.gle/avpFPP1XMf3JLv1y8",
+      "path": "/images/Marketing maestro.png",
+      "event": "Marketing Maestros",
+      "club": "EDC",
+      "category": "Informal",
+      "timing": "1 PM - 3:30 PM",
+      "venue": "LH-2",
+      "description": "An event to showcase your marketing skills and ideas. The participants will each be assigned a product that they have to market and promulgate among the people and collect their votes. The one with the maximum number of votes wins the competition. The participants will have a common list on which their products will be listed and the number of likes and dislikes on the product is shown, on the basis of which the winner of the competition is decided.",
+      "contact": ["Ujjwal - 9508486750", "Varun - 9304792234"]
+    },
+    {
+      "register": "https://forms.gle/SVJYdhNMePDFjdiGA",
+      "path": "/images/cyberbrigeton.png",
+      "event": "Cyberbridgeton",
+      "club": "IEI Civil",
+      "category": "Formal",
+      "timing": "1:00 PM - 3.30 PM",
+      "venue": "RnD Lab",
+      "description": "",
+      "contact": ["Shreya Sinha - 8709566909"]
+    },
+    {
+      "path": "/images/FIFA.png",
+      "event": "FIFA",
+      "club": "Sports and Adventure Club",
+      "category": "Informal",
+      "timing": "1:00 PM - 4:00 PM",
+      "venue": "Lab 4, RnD Building",
+      "description": "A preliminary group stage with elimination-style R i ope t-l reistered participants. Players that advance from the group stages will compete in the semi-finals and the championship match, which will take place over three different arenas. After three matches, a player will be eliminated.",
+      "contact": [
+        "Yashdev Tiwari - 6393115243",
+        "Kartik Doley - 8169217376",
+        "Piyush Raj - 9939175648"
+      ]
+    },
+    {
+      "register": "https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSe3PqPnaXlzP8rcSsitco0qKCWrcyZfYJ_gpojKVUKS8JKndA/viewform?usp=sf_link",
+      "path": "/images/musicalCharades.jpeg",
+      "event": "Musical Charades",
+      "club": "SPIC MACAY",
+      "category": "Informal",
+      "timing": "9:00 AM - 12.00 PM",
+      "venue": "233, 236",
+      "description": "Get ready to elevate the classic game of charades to a whole new level with \"Musical Charades!\" This uproarious event adds a thrilling twist to the beloved game of gestures and clues. Here's how it works: teams of enthusiastic participants will don noise-cancelling headphones blasting energetic tunes, making communication a hilarious challenge. As you take turns acting out movie titles, book names, famous phrases, and more, your teammates will attempt to decipher your messages without the aid of spoken words. The result? A raucously entertaining evening filled with laughter, wild gesticulations, and the delightful chaos of trying to guess while grooving to the beats. Musical Charades promises unforgettable moments, teamwork, and uproarious fun. Join us for an unforgettable night of musical mayhem!",
+      "contact": ["Shiva Shantanu - 7061307557", "Snigdha Burman - 6203632715"]
+    },
+    {
+        "register": "https://docs.google.com/forms/d/e/1FAIpQLSdEExQEZXmGHDRfed0gb1WFnMx-Hf1xfbgDzjCOmQfSi5DooQ/viewform",
+        "path": "/images/invictus.jpeg",
+        "event": "Invictus",
+        "club": "BIOTS",
+        "category": "Informal",
+        "timing": "Round 1- 11:30 AM - 12:30 PM, Round 2- 12:30 PM - 1:00 PM, Round 3 - 1:30 AM - 3:00 PM",
+        "venue": "219, 217",
+        "description": "Are you ready to showcase your brilliance and prove yourself as the ultimate trivia champion? Brace yourself for an epic showdown of intellect and imagination with INVICTUS, presented by BIOTS! Invictus will put your knowledge to the ultimate test. So gear up, let the creative juices flow fast and grab this opportunity to prove you're the smartest of them all. Step into the arena and let the quizzing battle begin!",
+        "contact": ["Afzal  - 8271827570"]
+      }
+  ],
+  "day3": [
+    {
+      "register": "https://docs.google.com/forms/d/e/1FAIpQLSezkpjMKnz_I_AE69bsl-u_HizjTUP36In4fA6fPt5WUnDVSw/viewform?usp=sharing",
+      "path": "/images/WIKI WARS.png",
+      "event": "Wiki Wars",
+      "club": "BIOTS",
+      "category": "Informal",
+      "timing": "Round 1-09:00AM - 10:00AM, Round 2 - 10:00Am - 11:30AM, Round 3 - 11:30AM - 01:00Pm",
+      "venue": "RnD Lab",
+      "description": "Wiki Wars is a skillful and smart game of navigating through several pages of Wikipedia on a desktop without the use of a keyboard. It involves reaching the target Wikipedia page from an already given Wikipedia page in the limited time and with the least number of clicks. Players use the blue Wikipedia links to go from one page to another. The number of players for the game is 2.",
+      "contact": ["Aditi Singh - 7061767535", "Chinmay Patade - 9137213409"]
+    },
+    {
+      "register": "https://forms.gle/TaepKPpvsA27RyEY6",
+      "path": "/images/Talking prompt.png",
+      "event": "Talking prompt",
+      "club": "SDS",
+      "category": "Informal",
+      "timing": "Round 1 - 9 AM- 10:30 AM, Round 2 - 10:30 am to 12:30 PM",
+      "venue": "LH-2",
+      "description": "The event features participants writing prompts to  get information from the large language models softwares such as Chatgpt or Bard to generate unusual words in its reply by giving different prompts.",
+      "contact": ["Manoj Kumar, Debasmita Das - 81024 46794"]
+    },
+
+    {
+      "register": "https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLScZFkGFEx4K_JVz3eEowEZm451LTMOmYJuKuo5ADEQl93aExQ/viewform?vc%3D0%26c%3D0%26w%3D1%26flr%3D0%26usp%3Dmail_form_link&source=gmail&ust=1695745254995000&usg=AOvVaw3_VK8HYObULrArccIi3nrL",
+      "path": "/images/journalists hour.png",
+      "event": "The Journalist Hour",
+      "club": "NAPS",
+      "category": "Formal",
+      "timing": "9:00 AM - 12.30 PM",
+      "venue": "LH-3",
+      "description": "A journalism-based event with panel discussions, aiming to judge the participant's deduction of the same while upholding clarity and depth in their line of thought. It comprises two rounds: Prelims which include a case study of a socio-political topic, and Qualifying which will lead the teams to the finals - a panel discussion.",
+      "contact": ["Priyanka Sinha - 9903411800"]
+    },
+    {
+      "register": "https://forms.gle/gfNifaSX5HY9HRTA7",
+      "path": "/images/lost codes-1.png",
+      "event": "Lost Codes",
+      "club": "ACM",
+      "category": "Formal",
+      "timing": "Round 1 - 9.30 AM - 11:00 AM, Round 2 - 11.30 AM - 2:00 PM",
+      "venue": "204, 207, 209",
+      "description": "Unlock the Binary: Extract the Hidden Code! Put your skills to the test in a thrilling contest of code retrieval from executable files.",
+      "contact": ["Raj Aryan - 72590 27418", "Kumar Shivam - 9693576605"]
+    },
+    {
+      "register": "https://forms.gle/y5aS7aMGCrMz4vFq6",
+      "path": "/images/cube de cemento.png",
+      "event": "Cube-De-Cemento",
+      "club": "IEI Civil",
+      "category": "Flagship",
+      "timing": "Round 1 - 11.30 AM - 1.30 PM, Round 2 - 2.00 PM - 4.00 PM",
+      "venue": " R1-236, 233,  R2-Civil Dept Lab",
+      "description": "Create a concrete block with provided ingredients and proportions. Submit procedure with ingredients, team members' names, and completion time. Damage or mess leads to disqualification. Top three strongest concrete blocks win.",
+      "contact": ["SNEHA SHRUTI - 8789532609"]
+    },
+    {
+      "register": "https://forms.gle/nrCnEkjX547AzTf2A",
+      "path": "/images/4.png",
+      "event": "Chayachitra",
+      "club": "PSOC",
+      "category": "Informal",
+      "timing": "9:30 AM - 12 PM",
+      "venue": "CAT Hall",
+      "description": "This competition invites filmmakers to weave their storytelling magic around a diverse array of themes. The finest 5-10 entries will be showcased in an exclusive premiere event, and from these, the top 3 will emerge as the champions.",
+      "contact": ["Bodhisatwa Sinha - 6296220288"]
+    },
+    {
+      "register": "https://forms.gle/j2BFsPZwRsLas1g17",
+      "path": "/images/airphane investigation.png",
+      "event": "Air Crash Investigation",
+      "club": "Aerosoc",
+      "category": "Formal",
+      "timing": "Round 1 - 11:30 AM to 12.00 PM, Round 2 - 12:30 PM to 2 PM",
+      "venue": "231, 237",
+      "description": "The safest mode of transportation but one small mistake and it becomes the deadliest accident. \"Examine the wrecks and official records, and hear from eyewitnesses, passengers, and aviation experts as we reconstruct some of the most tragic disasters in aviation history. Air Crash Investigation examines what went wrong and how future disasters can be averted.\" Be an air crash investigator and, with your friends, solve real-life inspired air crashes just like a real one with the black box data, flight path, pilot's history, recordings and much more in your hands.",
+      "contact": ["Deewakar Prasad - 9470102532"]
+    },
+    {
+      "register": "https://docs.google.com/forms/d/e/1FAIpQLSdsZ4gXH4-IZqHwhRyF_QTJLPfESg3Zjcql_J1IBwazjZFY9w/viewform?vc=0&c=0&w=1&flr=0",
+      "path": "/images/robo rumble.png",
+      "event": "Robo Rumble",
+      "club": "Robolution",
+      "category": "Formal",
+      "timing": "Round 1 : 11.00 AM - 1.00 PM, Round 2: 1.30 PM -3.30 PM",
+      "venue": "IC Arena",
+      "description": "",
+      "contact": ["Navneet Kumar - 8002781431"]
+    },
+    {
+      "register": "https://docs.google.com/forms/d/e/1FAIpQLSfEyCD8GDQ8xIsqx41YC9kSSjPgZskbPCkCUhwXcJYH8IG8UA/viewform",
+      "path": "/images/5_20230928_181241_0004.png",
+      "event": "Ink & Imagination",
+      "club": "Ehsaas",
+      "category": "Informal",
+      "timing": "1:00 PM - 3.00 PM",
+      "venue": "LH-1",
+      "description": "A platform for budding writers to explore storytelling, character development, and the art of words.",
+      "contact": ["Sudhanshu - 9534050480", "Anurag - 9653376156"]
+    },
+    {
+      "register": "https://forms.gle/pFG6Do1xhUJFKY7F7",
+      "path": "/images/BUGGY ESCAPE_20231004_150738_0017.png",
+      "event": "Buggy Escape",
+      "club": "Team Aveon",
+      "category": "Informal",
+      "timing": "Round 1 - 11:30 am - 12:30 PM, Round 2 - 12:30PM - 2:00PM",
+      "venue": "Round 1: 217, 220, Round 2: In front of Prod. Dept",
+      "description": "So, whats the hurry? Yes the time is less and you have to keep it lesser still. Aveon participates in the SAE E-Baja event every year and one of the key tests in the event involves escaping out of the ATV under 5 seconds. We intend to bring adrenaline to our campus and challenge you the same. It's not tough as it sounds, right? Then come on and get locked, let's see how fast you can unlock yourself!",
+      "contact": ["Ayush Kumar - 7992331764"]
+    },
+    {
+      "register": "https://forms.gle/Ff91muT4ECVoA8ZJ6",
+      "path": "/images/css battle-1.png",
+      "event": "CSS Battle",
+      "club": "IEEE",
+      "category": "Formal",
+      "timing": " Round 1 - 11:30 am - 12:30 PM, Round 2 - 12:30PM - 2:30PM",
+      "venue": "R1 - 214, 216, 219, R2 - 219",
+      "description": "This event consists of 2 rounds both round will be conducted offline. The first round will be the elimination round and 12-15 teams will qualify for second round. In second round qualified teams will be shown some design on projector and they have to clone that design using CSS. Team that is closest to design wins. A team can have maximum 2 members in both rounds.",
+      "contact": ["Gajendra Agarwal - 8853030790"]
+    },
+    {
+      "register": "https://forms.gle/JrmWoh4cNcjfnzF58",
+      "path": "/images/SHIPWRECK-2.png",
+      "event": "Shipwreck",
+      "club": "UNESQUO",
+      "category": "Informal",
+      "timing": "12:30 PM - 3:00 PM",
+      "venue": "CAT Hall",
+      "description": "“You see yourself as a shipwreck, but we see your treasure glowing inside, beneath the oceans in your eyes.” ― Curtis Tyrone Jones\nAn indubitable fact for sure, that we all are wrecked and broken but that is how the light shines from within. It's that time of the year where we give you an opportunity to be the chosen one. So behold with bated breath and ineffable energy for a rusty, ruthless and a rummaging ride across the sea with a captain who will guide you according to his whims and fancies.\nCome one and come all as it is time to save yourselves from the perils of the sea and the only weapon you have is your intelligence and wit. Twists and turns await you! Presenting before you the most exciting ride, Shipwreck!\nThe ship might not be dark but the wreck is full of horrors. See you there!",
+      "contact": ["Harsh Ranjan - 6201628654"]
+    },
+    {
+      "register": "https://docs.google.com/forms/d/e/1FAIpQLSerh0JsbzOwVKSus6mvplw7WMvE2CQ9YyOkBwopue9cY6Pr5w/viewform?usp=pp_url",
+      "path": "/images/razzmatazz.png",
+      "event": "Razzmatazz",
+      "club": "Dance Club",
+      "category": "Formal",
+      "timing": "1:00 PM - 3:00 PM",
+      "venue": "GP Birla Auditorium",
+      "description": "“Dance is your pulse, your heartbeat, your breathing. It’s the rhythm of your life. It’s the expression in time and movement, in happiness, joy, sadness and envy.”\nDance Club brings to you Razzmatazz, the most awaited dance competition of BIT Mesra ! Get to connect with other dancers with different styles and don't miss out on the opportunity to compete with them and remember, experience is the greatest reward.",
+      "contact": ["Belal Khan - 7632810733", "Ritesh kumar - 6203167432"]
+    },
+    {
+      "register": "https://docs.google.com/forms/d/e/1FAIpQLSd4a-c0xqXQCvk1Fl3aMigD4Sd8Iny9rnszktsmBv3wOJ0dOw/viewform",
+      "path": "/images/mr miss pantheon.png",
+      "event": "Mr. & Miss Pantheon",
+      "club": "Leo & Rotaract",
+      "category": "Flagship",
+      "timing": "Round 1 - Online, Round 2 - Pre Ramp, Round 3 - 3:30 PM - 6:00 PM",
+      "venue": "GP Birla Auditorium",
+      "description": " Step into the spotlight at Pantheon's grand techfest, where the Leo & Rotaract Club proudly presents \"Mr. and Miss Pantheon.\" This pageant extravaganza is a dazzling showcase of charisma, talent, and intellect, featuring rounds that put participants' personalities, talents, and wits to the test. The evening culminates in a mesmerizing Ramp Walk and a thrilling Questioning Round by our esteemed panel, all leading to the crowning of the next Mr. and Miss Pantheon. Join us for an unforgettable night of glamour and brilliance, where stars are born, and legends are crowned!",
+      "contact": ["Aniket Kumar - 9304278241"]
+    }
+  ]
+}
